@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="eltec-0.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MKD1903" xml:lang="mk" >
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>За македонцките работи</title>
+                <author><!-- Мисирков, Крсте Петков (1874-1826)--></author>
+                <respStmt>
+                    <resp>encoded by</resp>
+                    <name>Nikolche Mickoski</name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <measure unit="words"></measure>
+            </extent>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource"><title>Дигитални ресурси на македонскиот јазик</title> 
+                    <ref target="http://drmj.manu.edu.mk/%d1%81%d1%82%d0%b0%d1%80%d0%b8-%d0%ba%d0%bd%d0%b8%d0%b3%d0%b8-%d0%b8-%d1%80%d0%b5%d1%87%d0%bd%d0%b8%d1%86%d0%b8/"></ref></bibl>
+                <bibl type="first edition"><title>За македонцките работи</title><publisher>Печатница на „Либерални клуб“</publisher></bibl> <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc n="eltec-0">
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""/>
+            </langUsage>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="male"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="4"/>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2019-09-23">File created</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p></p>
+        </body>
+    </text>
+</TEI>
